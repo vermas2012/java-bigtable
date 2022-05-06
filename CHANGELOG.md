@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.7.0](https://github.com/googleapis/java-bigtable/compare/v2.6.2...v2.7.0) (2022-05-06)
+
+
+### Features
+
+* (generated) Add ListHotTablets API method and protobufs ([f127f1a](https://github.com/googleapis/java-bigtable/commit/f127f1a05647c8fb2c9becf07753c302957bd571))
+* (generated) AuditConfig for IAM v1 ([f127f1a](https://github.com/googleapis/java-bigtable/commit/f127f1a05647c8fb2c9becf07753c302957bd571))
+* next release from main branch is v2.7.0 ([22acfc4](https://github.com/googleapis/java-bigtable/commit/22acfc405e23ccfeeeedcce6992f887d48d22bd5))
+
+
+### Documentation
+
+* Remove the limitation of all clusters in a CMEK instance must use the same key ([f127f1a](https://github.com/googleapis/java-bigtable/commit/f127f1a05647c8fb2c9becf07753c302957bd571))
+* **sample:** remove unused native-image-support dependency ([#1237](https://github.com/googleapis/java-bigtable/issues/1237)) ([520670e](https://github.com/googleapis/java-bigtable/commit/520670ee1456f83368cc9843d594ad7af2117e76))
+* Update `cpu_utilization_percent` limit ([f127f1a](https://github.com/googleapis/java-bigtable/commit/f127f1a05647c8fb2c9becf07753c302957bd571))
+
 ### [2.6.2](https://github.com/googleapis/java-bigtable/compare/v2.6.1...v2.6.2) (2022-04-15)
 
 
